@@ -1,5 +1,3 @@
-// Marcus Hurlbut - Vulkan Renderer
-
 #include "Renderer.h"
 
 
